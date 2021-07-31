@@ -22,5 +22,5 @@ Vinicius e Ana.
 - Simulador de luzes do carro (faróis, lanternas, setas) utilizando arduino, leds e um modulo relé de 2 canais.
 - Tocando melodias com um buzzer.
 - Controlando um motor.
-
+- Sensor Ultrassonico - Manual do Mundo.
 
