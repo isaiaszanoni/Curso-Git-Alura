@@ -13,6 +13,7 @@ Vinicius e Ana.
 # Vinicius
 
 - Semáforos de veículos e pedestres feitos com arduino e leds.
+- Display de sete segmentos que incrementa ou decrementa um número, de acordo com o toque no botão up ou down.
 
 ---
 
