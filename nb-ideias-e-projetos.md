@@ -14,6 +14,7 @@ Vinicius e Ana.
 
 - Semáforos de veículos e pedestres feitos com arduino e leds.
 - Conta Números - Display de 7 segmentos que, à medida que você aperta o botão + ou -, incrementa ou decrementa o número mostrado no display.
+- Sensor de presença para a lâmpada do quintal - aduino, sensor de presença, modulo relé.
 
 ---
 
